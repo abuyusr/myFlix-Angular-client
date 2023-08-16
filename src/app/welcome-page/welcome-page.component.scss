@@ -1,0 +1,38 @@
+$color-primary: black;
+$color-secondary: grey;
+$color-text: white;
+
+.container {
+    background: linear-gradient(to bottom, #000000, #434343);
+    height: 100%;
+}
+
+.main-page {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: top;
+    align-items: center;
+    text-align: center;
+    padding-top: 80px;
+    height: 100%;
+    color: $color-text;
+}
+
+
+.welcome-buttons {
+    display: flex;
+    width: 20%;
+}
+
+button {
+    flex: 1;
+    padding: 12px 4px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    font-size: 72px;
+}
