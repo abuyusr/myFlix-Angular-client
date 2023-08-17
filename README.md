@@ -5,7 +5,7 @@ To build the client-side of an application called MyFlix based on existing serve
 This project was generated with Angular CLI version 15.2.5.
 
 Demo
-The deployed app can be viewed here: https://github.com/abuyusr/myFlix-Angular-client.git
+The deployed app can be viewed here: https://abuyusr.github.io/myFlix-Angular-client/
 
 Description
 Key Features
