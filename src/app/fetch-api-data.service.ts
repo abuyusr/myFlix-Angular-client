@@ -5,7 +5,7 @@ import { Observable, throwError } from 'rxjs';
 import { map } from 'rxjs/operators';
 
 // Declaring the api url that will provide data for the client app
-const apiUrl = 'https://zaflix.herokuapp.com/';
+const apiUrl = 'https://zmovies.onrender.com/';
 @Injectable({
   providedIn: 'root'
 })
